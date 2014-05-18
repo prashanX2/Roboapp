@@ -1,0 +1,9 @@
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\bin\Release\RoboAppMono.exe.config
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\bin\Release\RoboAppMono.exe
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\bin\Release\RoboAppMono.pdb
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\obj\Release\RoboAppMono.COM.resources
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\obj\Release\RoboAppMono.RoboApp.resources
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\obj\Release\RoboAppMono.Properties.Resources.resources
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\obj\Release\RoboAppMono.csproj.GenerateResource.Cache
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\obj\Release\RoboAppMono.exe
+C:\Users\prashan\documents\visual studio 2012\Projects\n\RoboAppMono\RoboAppMono\obj\Release\RoboAppMono.pdb
